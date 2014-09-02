@@ -1,4 +1,4 @@
-package uk.me.jonathans;
+package uk.me.jonathans.jxbattle;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;

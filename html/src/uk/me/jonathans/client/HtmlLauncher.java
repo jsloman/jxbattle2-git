@@ -3,7 +3,8 @@ package uk.me.jonathans.client;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import uk.me.jonathans.MyGdxGame;
+
+import uk.me.jonathans.jxbattle.MyGdxGame;
 
 public class HtmlLauncher extends GwtApplication {
 
