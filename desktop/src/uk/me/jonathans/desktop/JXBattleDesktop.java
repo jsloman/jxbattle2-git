@@ -6,7 +6,7 @@ import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 import uk.me.jonathans.jxbattle.JXBattleGame;
 import uk.me.jonathans.jxbattle.MyGdxGame;
 
-public class DesktopLauncher {
+public class JXBattleDesktop {
 	public static void main (String[] arg) {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		new LwjglApplication(new JXBattleGame(), config);
